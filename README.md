@@ -1,4 +1,4 @@
-# React Internship Assignment
+ # React Internship Assignment
 
 This project was developed as part of a React Developer Internship assignment.
 
