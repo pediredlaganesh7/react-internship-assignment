@@ -2,7 +2,7 @@ import { useState } from "react";
 
 export default function SearchList() {
   const names = [
-    "Ganesh",
+    "Ganesh", 
     "Rahul",
     "Priya",
     "Anjali",
