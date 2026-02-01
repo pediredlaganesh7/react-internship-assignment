@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 export default function Todo() {
-  const [task, setTask] = useState("");
+  const [task, setTask] = useState(""); 
   const [tasks, setTasks] = useState(
     JSON.parse(localStorage.getItem("tasks")) || []
   );
