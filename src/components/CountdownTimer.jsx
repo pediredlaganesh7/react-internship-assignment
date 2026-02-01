@@ -39,7 +39,7 @@ export default function CountdownTimer() {
   const pause = () => setStatus("paused");
   const reset = () => {
     setTime(10000);
-    setStatus("idle");
+    setStatus("idle"); 
   };
 
   return (
