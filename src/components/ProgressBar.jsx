@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react"; 
 
 export default function ProgressBar() {
   const [values, setValues] = useState([0, 0, 0]);
